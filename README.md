@@ -10,7 +10,7 @@
 | 2020.9.10s|✔ |
 
 # 🔥Features 
-
+#  
 ## ️🀄️Inverse Mode : 
 ### Inverse Input . 💭️Example : [ If press left your character will go right ] . You Can Also set speed ! 🚄
 
@@ -23,7 +23,10 @@
 ## 🍭KeySpeed Mode :
 ### Change Speed in-game by using num keys . 1 for Speed 1x , 2 for speed 2x ... ( to 5x) !
 
+#  
+#  
 # 🎃Imposter Pack
+##  
 ## No kill Cooldown :
 ###  Press Q to set timer to 0 !
 

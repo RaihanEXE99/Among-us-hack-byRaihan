@@ -53,7 +53,7 @@
 ###  
 ###  
 <div align=”center”>
-
+<center>
 ![Bye](https://media.tenor.com/images/8e889f99288ee40650cad8b6adb3679e/tenor.gif)
-
+</center>
 </div>

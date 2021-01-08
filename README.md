@@ -13,7 +13,7 @@
 # 🔥Features 
 #  
 ## ️🀄️Inverse Mode : 
-### Inverse Input . 💭️Example : [ If press left your character will go right ] . You Can Also set speed ! 🚄
+### Inverse Input . 💭️Example : [ If press left your character will go right ] . You Can Also increase the speed ! 🚄
 
 ## 🐧 Speed Mode :
 ### Change Speed of your character. Also works in-game.

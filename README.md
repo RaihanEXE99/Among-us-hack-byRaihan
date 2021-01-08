@@ -1,6 +1,8 @@
 # Among Us Hack
 ![Among Us Hack (PC Version) ](https://i.ibb.co/Kq1r4Kf/pic.png)
 
+## 🔥 Used Programming Language ( C# ) 💣
+
 ## Status (Active)
 
 

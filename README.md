@@ -30,10 +30,10 @@
 #  
 # 🎃Imposter Pack
 ##  
-## No kill Cooldown :
+## No kill Cooldown : (Ban)
 ###  Press Q to set timer to 0 !
 
-##  🔮RaiCho Mode : 
+##  🔮RaiCho Mode : (Disabled)
 ### Press F inside game to interchange between Imposter and Crewmate ! Interchange Limit is Unlimited . [ Also See Status ]!
 
 ## 📟 Be Imposter / See Imposter :

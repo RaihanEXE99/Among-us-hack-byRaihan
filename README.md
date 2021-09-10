@@ -44,14 +44,6 @@
 
 #  
 
-## 🔥 Downloadable link ( ✖ Not Public )
-###  
-### [✖]  This hack is created only for educational purpose . So no public download . 
-###  
-### [✔] But if you want to see the code to improve your skill or need this hack badly ! Contact :  [Facebook](https://www.facebook.com/RaihanChowdhury.next) , RaihanChowdhury.next@gmail.com
-###  
-###  
-###  
 <center>
   
 ![Bye](https://media.tenor.com/images/8e889f99288ee40650cad8b6adb3679e/tenor.gif)

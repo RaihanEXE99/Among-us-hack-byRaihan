@@ -1,7 +1,6 @@
-# Among Us Hack (CLOSED❌)
+# Among Us Hack (CLOSED❌) C#
 ![Among Us Hack (PC Version) ](https://i.ibb.co/Kq1r4Kf/pic.png)
 
-# 🔥 Created With C# 💣
 
 ## Status (Active)
 

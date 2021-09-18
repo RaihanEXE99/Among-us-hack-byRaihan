@@ -5,7 +5,7 @@
 ## Status (Active)
 
 
-| Plugin | README |
+| Version | README |
 | ------ | ------ |
 | 2021.03.5s|X |
 | 2020.11.17s|✔ |

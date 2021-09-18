@@ -2,10 +2,10 @@
 ![Among Us Hack (PC Version) ](https://i.ibb.co/Kq1r4Kf/pic.png)
 
 
-## Status (Active)
+## Status (Closed) 
 
 
-| Version | README |
+| Version |  |
 | ------ | ------ |
 | 2021.03.5s|X |
 | 2020.11.17s|✔ |

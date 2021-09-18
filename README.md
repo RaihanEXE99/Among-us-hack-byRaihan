@@ -36,13 +36,13 @@
 ###  Press Q to set timer to 0 !
 
 ##  🔮RaiCho Mode : (Disabled)
-### Press F inside game to interchange between Imposter and Crewmate ! Interchange Limit is Unlimited . [ Also See Status ]!
+### Press F inside game to interchange between Imposter and Crewmate ! Interchange is Unlimited . [ Also See Status ]!
 
 ## 📟 Be Imposter / See Imposter :
 ### Be imposter to see imposter. Or just be imposter by clicking checkbox !
 
 ## 💣 Be Crewmate  :
-### ? For no reason !
+### ? IDK 🤷‍♂️
 
 #  
 
